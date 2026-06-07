@@ -26,8 +26,7 @@ Aspiring Data Scientist with experience in Python, R, SAS, Tableau, Machine Lear
 ### Databases
 - SQL
 
-# Featured Projects
-
+### Feature Projects
 
 ##  Healthcare Readmission Risk Prediction
 
@@ -59,7 +58,7 @@ Interactive Tableau dashboard focused on employee attrition and workforce analyt
 
 ### Project Link
 
-[View Project](-https://github.com/hassanshah659-ui/HR-ANALYTICS-DASHBOARD-)
+[View Project](https://github.com/hassanshah659-ui/HR-ANALYTICS-DASHBOARD)
 ---
 
 
