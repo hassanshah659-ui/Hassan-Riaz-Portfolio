@@ -25,8 +25,8 @@ Aspiring Data Scientist with experience in Python, R, SAS, Tableau, Machine Lear
 
 ### Databases
 - SQL
-
-### Feature Projects
+---
+### Featured Projects
 
 ##  Healthcare Readmission Risk Prediction
 
