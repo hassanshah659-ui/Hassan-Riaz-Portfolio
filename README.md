@@ -2,29 +2,21 @@
 MS Data Science & Business Intelligence
 Asia Pacific University (APU)
 
+## Portfolio Highlights
+
+- 4 Data Analytics & Machine Learning Projects
+- Healthcare, HR, Customer Analytics & AI Domains
+- Python, R, SAS, Tableau & SQL
+- End-to-End Machine Learning Workflow
+
 ## About Me
 
 Aspiring Data Scientist with experience in Python, R, SAS, Tableau, Machine Learning, Business Intelligence and Predictive Analytics.
 
 ## Technical Skills
 
-### Programming
-- Python
-- R
-- SAS
+• Python • R • SAS • Tableau • SQL • Scikit-Learn • Machine Learning • EDA • Feature Engineering • Predictive Analytics
 
-### Data Visualization
-- Tableau
-- Power BI
-
-### Machine Learning
-- Scikit-Learn
-- Feature Engineering
-- Cross Validation
-- Hyperparameter Tuning
-
-### Databases
-- SQL
 ---
 ### Featured Projects
 
